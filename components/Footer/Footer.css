@@ -1,0 +1,20 @@
+.footer {
+  background-color: darkred;
+  padding: 8px;
+  margin-top: 0;
+}
+
+h1 {
+  color: whitesmoke;
+  text-align: center;
+  font-size: x-large;
+}
+
+#credit-links{
+  margin:0px;
+  padding:0px;
+  width:100%;
+  display:flex;
+  justify-content: space-around;
+  
+}
