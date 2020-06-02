@@ -136,14 +136,16 @@ Members Contributing on this project:
     * Documentation
 
 * [Lee Ann Norman](https://github.com/leenorman)
-    * Rough Draft UI/UX Wireframe
+    * UI/UX Design
 
 
 
 ## Questions
 If you have any questions about this application, feel free to reach out to one of our members below:
 
-<img src="https://avatars0.githubusercontent.com/u/59707181?v=4" height="32" width="32"> | brian.k.fairbanks@gmail.com
+leeann.nrmn@gmail.com
+
+brian.k.fairbanks@gmail.com
 
 
 ## Demo
