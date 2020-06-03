@@ -27,7 +27,7 @@ Dice Rollerz is an online chat app that helps D&D enthusiasts communicate and or
 <details open>
 <summary>ICS License</summary>
 <br>
-Copyright 2020 Lee Ann Norman
+Copyright 2020 Brian Fairbanks, Jonathan Andrews, Lee Ann Norman, Sergio Bracamontes, Jason Strouphauer
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
